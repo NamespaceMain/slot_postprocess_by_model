@@ -1,0 +1,43 @@
+2025-08-18 19:36:51,923 - INFO - ===== Training Start =====
+2025-08-18 19:36:51,923 - INFO - DATA len: 100000, Batch size: 8, LR: 0.001, Optimizer: AdamW, Weight Decay: 0.0001
+2025-08-18 19:36:51,923 - INFO - Label smoothing: 0.1, Scheduler: StepLR, Epochs: 50
+2025-08-18 19:38:45,398 - INFO - Epoch [1/50] Train Loss: 17.2214, ce_loss: 11.61, geo_loss: 5.62, Train Acc: 0.45% | Val Loss: 2179.7078, Val Acc: 0.62%
+2025-08-18 19:40:54,313 - INFO - Epoch [2/50] Train Loss: 15.1223, ce_loss: 10.26, geo_loss: 4.86, Train Acc: 0.54% | Val Loss: 2063.2953, Val Acc: 0.65%
+2025-08-18 19:43:15,891 - INFO - Epoch [3/50] Train Loss: 14.7356, ce_loss: 10.00, geo_loss: 4.74, Train Acc: 0.56% | Val Loss: 2038.4592, Val Acc: 0.65%
+2025-08-18 19:44:58,009 - INFO - Epoch [4/50] Train Loss: 14.3999, ce_loss: 9.77, geo_loss: 4.63, Train Acc: 0.57% | Val Loss: 2053.1432, Val Acc: 0.65%
+2025-08-18 19:46:22,270 - INFO - Epoch [5/50] Train Loss: 14.3323, ce_loss: 9.71, geo_loss: 4.62, Train Acc: 0.57% | Val Loss: 1997.1299, Val Acc: 0.66%
+2025-08-18 19:47:44,002 - INFO - Epoch [6/50] Train Loss: 14.2774, ce_loss: 9.66, geo_loss: 4.61, Train Acc: 0.57% | Val Loss: 2007.1274, Val Acc: 0.66%
+2025-08-18 19:49:07,363 - INFO - Epoch [7/50] Train Loss: 14.0978, ce_loss: 9.54, geo_loss: 4.56, Train Acc: 0.58% | Val Loss: 1955.1867, Val Acc: 0.67%
+2025-08-18 19:50:52,057 - INFO - Epoch [8/50] Train Loss: 14.0485, ce_loss: 9.51, geo_loss: 4.54, Train Acc: 0.59% | Val Loss: 1982.0909, Val Acc: 0.66%
+2025-08-18 19:53:19,129 - INFO - Epoch [9/50] Train Loss: 13.9814, ce_loss: 9.47, geo_loss: 4.52, Train Acc: 0.59% | Val Loss: 1942.9987, Val Acc: 0.66%
+2025-08-18 19:55:58,757 - INFO - Epoch [10/50] Train Loss: 13.8899, ce_loss: 9.40, geo_loss: 4.49, Train Acc: 0.59% | Val Loss: 1940.2562, Val Acc: 0.67%
+2025-08-18 19:57:42,640 - INFO - Epoch [11/50] Train Loss: 13.8441, ce_loss: 9.39, geo_loss: 4.46, Train Acc: 0.59% | Val Loss: 1947.6933, Val Acc: 0.67%
+2025-08-18 19:59:02,809 - INFO - Epoch [12/50] Train Loss: 13.7845, ce_loss: 9.34, geo_loss: 4.45, Train Acc: 0.59% | Val Loss: 1958.7942, Val Acc: 0.67%
+2025-08-18 20:00:23,570 - INFO - Epoch [13/50] Train Loss: 13.7176, ce_loss: 9.28, geo_loss: 4.44, Train Acc: 0.59% | Val Loss: 1948.2542, Val Acc: 0.66%
+2025-08-18 20:01:53,452 - INFO - Epoch [14/50] Train Loss: 13.6768, ce_loss: 9.26, geo_loss: 4.42, Train Acc: 0.59% | Val Loss: 1929.6976, Val Acc: 0.67%
+2025-08-18 20:03:50,887 - INFO - Epoch [15/50] Train Loss: 13.6736, ce_loss: 9.26, geo_loss: 4.42, Train Acc: 0.59% | Val Loss: 1935.4605, Val Acc: 0.67%
+2025-08-18 20:05:34,184 - INFO - Epoch [16/50] Train Loss: 13.6096, ce_loss: 9.23, geo_loss: 4.38, Train Acc: 0.60% | Val Loss: 1921.6445, Val Acc: 0.67%
+2025-08-18 20:07:26,430 - INFO - Epoch [17/50] Train Loss: 13.6601, ce_loss: 9.27, geo_loss: 4.39, Train Acc: 0.60% | Val Loss: 1921.9804, Val Acc: 0.67%
+2025-08-18 20:09:29,634 - INFO - Epoch [18/50] Train Loss: 13.6361, ce_loss: 9.24, geo_loss: 4.39, Train Acc: 0.60% | Val Loss: 1929.7388, Val Acc: 0.66%
+2025-08-18 20:11:33,886 - INFO - Epoch [19/50] Train Loss: 13.5472, ce_loss: 9.19, geo_loss: 4.36, Train Acc: 0.60% | Val Loss: 1945.4939, Val Acc: 0.67%
+2025-08-18 20:13:48,480 - INFO - Epoch [20/50] Train Loss: 13.5919, ce_loss: 9.21, geo_loss: 4.38, Train Acc: 0.60% | Val Loss: 1929.9897, Val Acc: 0.67%
+2025-08-18 20:15:55,216 - INFO - Epoch [21/50] Train Loss: 13.5818, ce_loss: 9.19, geo_loss: 4.39, Train Acc: 0.60% | Val Loss: 1931.0529, Val Acc: 0.67%
+2025-08-18 20:18:29,963 - INFO - Epoch [22/50] Train Loss: 13.5609, ce_loss: 9.19, geo_loss: 4.37, Train Acc: 0.60% | Val Loss: 1933.5491, Val Acc: 0.67%
+2025-08-18 20:20:38,311 - INFO - Epoch [23/50] Train Loss: 13.5567, ce_loss: 9.18, geo_loss: 4.37, Train Acc: 0.60% | Val Loss: 1939.5211, Val Acc: 0.67%
+2025-08-18 20:22:35,474 - INFO - Epoch [24/50] Train Loss: 13.5218, ce_loss: 9.17, geo_loss: 4.35, Train Acc: 0.60% | Val Loss: 1935.0617, Val Acc: 0.67%
+2025-08-18 20:24:43,504 - INFO - Epoch [25/50] Train Loss: 13.5072, ce_loss: 9.15, geo_loss: 4.36, Train Acc: 0.60% | Val Loss: 1927.5442, Val Acc: 0.67%
+2025-08-18 20:26:39,861 - INFO - Epoch [26/50] Train Loss: 13.5180, ce_loss: 9.16, geo_loss: 4.36, Train Acc: 0.60% | Val Loss: 1938.4844, Val Acc: 0.67%
+2025-08-18 20:29:01,365 - INFO - Epoch [27/50] Train Loss: 13.5323, ce_loss: 9.17, geo_loss: 4.36, Train Acc: 0.60% | Val Loss: 1920.1845, Val Acc: 0.67%
+2025-08-18 20:31:43,695 - INFO - Epoch [28/50] Train Loss: 13.5245, ce_loss: 9.16, geo_loss: 4.36, Train Acc: 0.60% | Val Loss: 1925.3805, Val Acc: 0.67%
+2025-08-18 20:33:37,211 - INFO - Epoch [29/50] Train Loss: 13.5127, ce_loss: 9.17, geo_loss: 4.35, Train Acc: 0.60% | Val Loss: 1922.2977, Val Acc: 0.67%
+2025-08-18 20:35:03,397 - INFO - Epoch [30/50] Train Loss: 13.5041, ce_loss: 9.15, geo_loss: 4.35, Train Acc: 0.60% | Val Loss: 1921.7423, Val Acc: 0.67%
+2025-08-18 20:36:28,365 - INFO - Epoch [31/50] Train Loss: 13.4990, ce_loss: 9.14, geo_loss: 4.35, Train Acc: 0.60% | Val Loss: 1915.1535, Val Acc: 0.67%
+2025-08-18 20:37:55,536 - INFO - Epoch [32/50] Train Loss: 13.4326, ce_loss: 9.11, geo_loss: 4.33, Train Acc: 0.60% | Val Loss: 1932.9012, Val Acc: 0.67%
+2025-08-18 20:39:39,302 - INFO - Epoch [33/50] Train Loss: 13.5165, ce_loss: 9.18, geo_loss: 4.34, Train Acc: 0.60% | Val Loss: 1925.4923, Val Acc: 0.67%
+2025-08-18 20:41:37,525 - INFO - Epoch [34/50] Train Loss: 13.5215, ce_loss: 9.17, geo_loss: 4.35, Train Acc: 0.60% | Val Loss: 1946.3702, Val Acc: 0.67%
+2025-08-18 20:43:28,199 - INFO - Epoch [35/50] Train Loss: 13.5034, ce_loss: 9.15, geo_loss: 4.36, Train Acc: 0.60% | Val Loss: 1909.9839, Val Acc: 0.67%
+2025-08-18 20:45:23,781 - INFO - Epoch [36/50] Train Loss: 13.4763, ce_loss: 9.15, geo_loss: 4.33, Train Acc: 0.60% | Val Loss: 1938.0136, Val Acc: 0.66%
+2025-08-18 20:47:23,417 - INFO - Epoch [37/50] Train Loss: 13.5104, ce_loss: 9.16, geo_loss: 4.35, Train Acc: 0.60% | Val Loss: 1949.5805, Val Acc: 0.66%
+2025-08-18 20:49:15,894 - INFO - Epoch [38/50] Train Loss: 13.4572, ce_loss: 9.11, geo_loss: 4.35, Train Acc: 0.60% | Val Loss: 1922.9054, Val Acc: 0.67%
+2025-08-18 20:51:14,023 - INFO - Epoch [39/50] Train Loss: 13.4971, ce_loss: 9.15, geo_loss: 4.35, Train Acc: 0.60% | Val Loss: 1953.9428, Val Acc: 0.67%
+2025-08-18 20:53:15,474 - INFO - Epoch [40/50] Train Loss: 13.4942, ce_loss: 9.15, geo_loss: 4.34, Train Acc: 0.60% | Val Loss: 1914.9897, Val Acc: 0.67%

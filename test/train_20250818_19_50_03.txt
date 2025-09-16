@@ -1,0 +1,6 @@
+2025-08-18 19:50:07,927 - INFO - Total FLOPs: 944.000B, Total Params: 908.000B
+2025-08-18 19:50:07,928 - INFO - ===== Training Start =====
+2025-08-18 19:50:07,928 - INFO - DATA len: 100000, Epoch len: 30, Batch size: 8, LR: 0.001, Optimizer: AdamW, Weight Decay: 0.0001
+2025-08-18 19:50:07,928 - INFO - Label smoothing: 0.1, Scheduler: StepLR, Epochs: 30
+2025-08-18 19:52:30,049 - INFO - Epoch [1/30] Train Loss: 17.2904, ce_loss: 11.48, geo_loss: 5.81, Train Acc: 0.44% | Val Loss: 2362.7071, Val Acc: 0.57%
+2025-08-18 19:55:12,471 - INFO - Epoch [2/30] Train Loss: 15.7056, ce_loss: 10.57, geo_loss: 5.14, Train Acc: 0.53% | Val Loss: 2105.7398, Val Acc: 0.68%

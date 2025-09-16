@@ -1,0 +1,8 @@
+2025-08-18 19:32:40,126 - INFO - ===== Training Start =====
+2025-08-18 19:32:40,127 - INFO - DATA len: 100000, Batch size: 8, LR: 0.005, Optimizer: AdamW, Weight Decay: 0.0001
+2025-08-18 19:32:40,127 - INFO - Label smoothing: 0.1, Scheduler: StepLR, Epochs: 50
+2025-08-18 19:34:28,490 - INFO - Epoch [1/50] Train Loss: 17.3994, ce_loss: 11.60, geo_loss: 5.80, Train Acc: 0.44% | Val Loss: 2238.1470, Val Acc: 0.58%
+2025-08-18 19:36:14,540 - INFO - Epoch [2/50] Train Loss: 15.5721, ce_loss: 10.48, geo_loss: 5.09, Train Acc: 0.52% | Val Loss: 2133.3319, Val Acc: 0.63%
+2025-08-18 19:38:03,366 - INFO - Epoch [3/50] Train Loss: 15.1715, ce_loss: 10.25, geo_loss: 4.92, Train Acc: 0.54% | Val Loss: 2119.6110, Val Acc: 0.64%
+2025-08-18 19:40:04,433 - INFO - Epoch [4/50] Train Loss: 14.8808, ce_loss: 10.02, geo_loss: 4.86, Train Acc: 0.55% | Val Loss: 2084.8117, Val Acc: 0.64%
+2025-08-18 19:42:35,434 - INFO - Epoch [5/50] Train Loss: 14.7503, ce_loss: 9.92, geo_loss: 4.83, Train Acc: 0.56% | Val Loss: 2064.3642, Val Acc: 0.65%
